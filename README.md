@@ -8,6 +8,12 @@ Expert system in Berkeley's Symbolic Logic, referenced with Venn and
   - Introductory treatment of symbolic logic fundamentals, including propositions, predicates, inference rules, and standard forms for logical argument.
 - `Berkeley--Symbolic logic and intelligent machines.pdf`
   - Berkeley's exploration of symbolic logic as a foundation for intelligent systems, with emphasis on formal language, deduction, and machine reasoning.
+- `Boole--An Investigation of the Laws of Thought.pdf`
+  - Boole's formulation of algebraic logic, introducing symbolic methods for reasoning, class operations, and the logical foundations of mathematics.
+- `Boole--The mathematical analysis of logic.pdf`
+  - Boole's advanced treatment of logical algebra, exploring formal methods for deduction, equation-based reasoning, and the relationship between logic and probability.
+- `Shannon--A symbolic analysis of relay and switching circuits.pdf`
+  - Shannon's seminal application of symbolic logic to electrical circuits and switching theory, showing how logical algebra underlies computation and digital design.
 - `Venn--SymbolicLogic.pdf`
   - John Venn's classic work on formal logic and logical notation, covering syllogisms, classes, and the algebra of logic.
 - `Venn--The logic of chance.pdf`
