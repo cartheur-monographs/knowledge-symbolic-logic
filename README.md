@@ -12,6 +12,8 @@ Expert system in Berkeley's Symbolic Logic, referenced with Venn and
   - John Venn's classic work on formal logic and logical notation, covering syllogisms, classes, and the algebra of logic.
 - `Venn--The logic of chance.pdf`
   - Venn's examination of probability and inductive logic, relating chance, belief, and logical inference in uncertain reasoning.
+- `Venn--The Principles of Empirical Or Inductive Logic.pdf`
+  - Venn's deeper study of empirical and inductive logic, addressing how evidence, probability, and inference principles combine to support scientific reasoning.
 
 ## Background motivation of the authors
 
@@ -19,5 +21,9 @@ Expert system in Berkeley's Symbolic Logic, referenced with Venn and
 
 - The Berkeley document reflects an author or editor interested in connecting symbolic logic to intelligent systems. That author is motivated by the idea that formal logic can serve as a rigorous basis for machine reasoning and artificial intelligence, showing how logic supports structured thought in computational contexts.
 
-- John Venn appears in both Venn texts, and he is motivated by the broader scientific goal of clarifying the relationship between logic, classes, and probability. His classic work in symbolic logic and his later work on the logic of chance both show his commitment to precise notation, systematic argument, and the philosophical foundations of inductive reasoning.
+- John Venn is represented by three texts, and is motivated by the broader scientific goal of clarifying the relationship between logic, classes, and probability. His work across symbolic logic and inductive reasoning shows a commitment to precise notation, systematic argument, and the deeper philosophical foundations of logical thought.
+
+## Influence of Venn on Berkeley
+
+Berkeley’s treatment of symbolic logic for intelligent machines appears influenced by Venn’s formal approach. Venn’s emphasis on precise notation, class logic, and systematic inference provides a foundation that Berkeley extends toward machine reasoning and structured artificial intelligence. This suggests that Berkeley is working in a Vennian tradition, applying classical logical rigor to computational and intelligent systems.
 
