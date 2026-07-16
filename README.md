@@ -2,7 +2,7 @@
 
 Expert system in Berkeley's Symbolic Logic, referenced with Venn and
 
-## Source documents in `src`
+## On source documents
 
 - `Basson--Intro to symbolic logic.pdf`
   - Introductory treatment of symbolic logic fundamentals, including propositions, predicates, inference rules, and standard forms for logical argument.
