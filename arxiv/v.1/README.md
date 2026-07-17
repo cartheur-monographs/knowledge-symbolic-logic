@@ -88,7 +88,7 @@ Alternative:
 
 Comments field draft:
 
-- `10 pages. Preprint version under review for journal submission.`
+- `15 pages. Preprint version under review for journal submission.`
 
 Keywords for internal tracking:
 
