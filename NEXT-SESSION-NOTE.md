@@ -81,3 +81,9 @@ If resuming from the TeX build:
 - then `pdflatex` twice
 
 The last successful compiled output on 2026-07-16 was [paper/main.pdf](/home/cartheur/ame/aiventure/aiventure-github/monographs/knowledge-symbolic-logic/paper/main.pdf).
+
+## Additions
+
+- we want to reference https://arxiv.org/abs/2607.12115 as a use-case in support
+- we do not want to relegate Berkeley and Hieserman as a historical curiousity, rather, as a powerful unknown and fully untested appraoch
+- we want to imply that behavior-based coding is the foundational path toward a functional robotic "brain"
