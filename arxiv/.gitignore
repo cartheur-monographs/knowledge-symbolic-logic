@@ -3,3 +3,4 @@
 *.blg
 *.log
 *.out
+!v.1/main.bbl

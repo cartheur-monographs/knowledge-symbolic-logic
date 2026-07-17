@@ -35,8 +35,11 @@ Current source bundle:
 - `references.bib`
 - `main.bbl`
 
-If arXiv compiles cleanly from `main.tex` and `references.bib`, the local
-`main.pdf` should be treated as a comparison artifact, not the upload format.
+The file `main.bbl` is intentionally kept with this arXiv bundle so the checked-in
+directory reflects the exact source set to upload.
+
+The local `main.pdf` should be treated as a comparison artifact, not the upload
+format.
 
 There is also a prepared archive at:
 
