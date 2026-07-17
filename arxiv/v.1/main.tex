@@ -135,15 +135,15 @@ The corpus becomes even more informative when several scripts are compared toget
 \begin{center}
 \small
 \setlength{\tabcolsep}{4pt}
-\begin{tabularx}{\textwidth}{@{}lcc>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X@{}}
+\begin{tabularx}{\textwidth}{@{}lcc>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X@{}}
 \hline
-Script & States & Transitions & Sensing & Recovery & Modes & Flow Complexity \\
+Script & States & Transitions & Key Sensing & Recovery & Control Form \\
 \hline
-\texttt{C-Tracking} & 1 & 0--1 implicit & none explicit & none & minimal activation & linear capability trigger \\
-\texttt{Move} & 4 & 5 & \texttt{Gsensor\_}\allowbreak\texttt{status} & explicit & monitor loop & monitored repeat-and-recover loop \\
-\texttt{Contact Response} & 4--5 & local branches & contact cue & none explicit & interaction branch & contact-conditioned response loop \\
-\texttt{Maze} & 12 & multi-branch & \texttt{Distance}, \texttt{Head\_pan} & retry/escape & decision loops & conditional search and reorientation \\
-\texttt{Football} & 31 & 54 & vision, posture, range & explicit & \texttt{mode}, \texttt{head}, \texttt{lost} & persistent mode-governed pursuit cycle \\
+\texttt{C-Tracking} & 1 & 0--1 implicit & none explicit & none & triggered capability activation \\
+\texttt{Move} & 4 & 5 & \texttt{Gsensor\_}\allowbreak\texttt{status} & explicit & monitored recovery loop \\
+\texttt{Contact Response} & 4--5 & local branches & contact cue & none explicit & contact-conditioned branch loop \\
+\texttt{Maze} & 12 & multi-branch & \texttt{Distance}, \texttt{Head\_pan} & retry/escape & environmental decision loop \\
+\texttt{Football} & 31 & 54 & vision, posture, range & explicit & mode-governed pursuit cycle \\
 \hline
 \end{tabularx}
 \end{center}
