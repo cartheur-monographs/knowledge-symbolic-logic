@@ -1,6 +1,6 @@
-# knowledge-agent-symbolic-logic
+# symbolic-logic
 
-Expert system in Berkeley's Symbolic Logic, referenced with Venn and
+A body of research on symbolic logic to intelligent machinery including publication effort.
 
 ## On source documents
 
